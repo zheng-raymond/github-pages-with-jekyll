@@ -1,3 +1,3 @@
 # Welcome to my blog
-
+## Here are my personal demos of the projects I made
 I'm glad you are here. I plan to talk about ...
